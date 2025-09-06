@@ -30,8 +30,8 @@ This tool is built for ethical learning only.
 ## ⚙️ How to use  
 1. Clone the repo:  
     ```bash
-    git clone https://github.com/yourusername/ethical-python-keylogger.git
-    cd ethical-python-keylogger
+    git clone https://github.com/Trifalic/black_logger.git ~/blacklogger
+    cd blacklogger
     ```
 
 2. Run the script:  
@@ -41,7 +41,7 @@ This tool is built for ethical learning only.
 
 3. Logs are saved to:  
     ```bash
-    /home/tanishq/Documents/keylogData/keylog1.txt
+    ~/Documents/keylogData/keylog1.txt
     ```
 
 4. Stop the keylogger by manually killing the process or modifying the code to stop on `Esc`.
