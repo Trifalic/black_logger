@@ -1,0 +1,8 @@
+Key.ctrl
+t
+h
+i
+Key.backspace
+Key.backspace
+Key.backspace
+Key.ctrl
